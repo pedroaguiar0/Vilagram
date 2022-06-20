@@ -14,7 +14,7 @@ body{
     padding: 0;
     display: flex;
     justify-content: center;
-    background-image: url(./Vilagram/img/bg.png);
+    background-image: url(./img/bg.png);
 }
 
 .instagram-wrapper{
@@ -125,9 +125,9 @@ body{
 }
 
 .app-download:nth-child(1){
-    background-image: url(./Vilagram/img/apple-button.png);
+    background-image: url(./img/apple-button.png);
 }
 
 .app-download:nth-child(2){
-    background-image: url(./Vilagram/img/googleplay-button.png);
+    background-image: url(./img/googleplay-button.png);
 }
